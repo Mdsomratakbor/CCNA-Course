@@ -4,4 +4,6 @@
 ### 2. RJ-45 Connectors 
 ![image](https://user-images.githubusercontent.com/53125546/204129821-46e954b9-b6c4-4ce7-9a24-548d8e3277c4.png)
 
+### What is Ethernet
+- Ethernet is collection of networks protocol/standards
 
