@@ -14,4 +14,12 @@
 ### 3. Router (config) #enable password password
 **configures a password to protect privileged exec mode**
 
+### 4. Router (config) #service password-encryption
+**encrypts the enable password (and other passwords)**
+
+### 5. Router (config) #enable secret password
+**configures a more secure, always-encrypted enable password**
+
+### 6. Router (config) #run privileged-exec-level-command
+**executes a privileged-exec level command from global configuration mode**
 
