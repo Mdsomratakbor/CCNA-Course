@@ -23,3 +23,22 @@
 ### 6. Router (config) #run privileged-exec-level-command
 **executes a privileged-exec level command from global configuration mode**
 
+### 7. Router (config) #no command
+**removes the command**
+
+### 8. Router (config) #show running-config
+**displays the current, active configuration file**
+
+### 9. Router(config) #show startup-config
+**displays the saved configuration file which will be loaded if the device is restarted**
+
+### 10. Router (config) #write
+**saves the configuration**
+
+### 11. Router (config) #write memory
+**saves the configuration**
+
+### 12. Router (config) #copy running-config startup-config
+**saves the configuration**
+
+
