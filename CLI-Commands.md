@@ -42,3 +42,4 @@
 **saves the configuration**
 
 
+**[Note]: Here Router is the hostname**
